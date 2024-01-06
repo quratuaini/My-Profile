@@ -17,5 +17,12 @@ This is a repository that I have created to showcase skills and track my progres
 
   - Excel
   - Tableau
+ 
+## Education
+Dian Nuswantoro University: Bachelor's degree - Informatics Engineering, 2019 - 2023
+
+## Contacts
+- LinkedIn: [@quratuaini](https://www.linkedin.com/in/quratu-aini/)
+- Email: [quratuaini02@gmail.com](mailto:quratuaini02@gmail.com)
 
 
