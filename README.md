@@ -11,7 +11,11 @@ This is a repository that I have created to showcase skills and track my progres
 - [About Me](https://github.com/quratuaini/My-Profile)
 
 - [Portfolio Projects](https://github.com/quratuaini/My-Portfolio)
-       - SQL
-         - [Covid 19 Data Exploration](https://github.com/quratuaini/My-Portfolio/blob/main/Covid19%20Data%20Exploration%20SQL.sql)
+  
+  - SQL
+    - [Covid 19 Data Exploration](https://github.com/quratuaini/My-Portfolio/blob/main/Covid19%20Data%20Exploration%20SQL.sql)
+
+  - Excel
+  - Tableau
 
 
